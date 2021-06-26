@@ -1,5 +1,5 @@
 # Hello-World
-最初に作る（作った）リポジトリ
+最初に作り（その後は放置されるはずだった）リポジトリ
 
 #### First update: Fri Jun 25 08:11:39 JST 2021
 #### Last update: Sun Jun 27 03:21:06 JST 2021
