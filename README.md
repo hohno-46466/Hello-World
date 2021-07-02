@@ -43,9 +43,10 @@
 ・参考：
 
 　・40言語で「Hello World」をやってみよう！！
-　　[](https://www.microstone.info/helloworld/)
+　　[https://www.microstone.info/helloworld/](https://www.microstone.info/helloworld/)
 
 　・世界各地と各種プログラミング言語での「Hello World!」いろいろ
+
 　　[https://brian.hatenablog.jp/entry/hello-world](https://brian.hatenablog.jp/entry/hello-world)
 
 　・とほほのFORTRAN入門
