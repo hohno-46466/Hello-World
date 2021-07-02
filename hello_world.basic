@@ -1,2 +1,5 @@
 10 REM BASIC
 20 PRINT "Hello, World!"
+30 '
+40 ' This is a comment line, too
+50 '

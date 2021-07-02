@@ -1,4 +1,8 @@
 // PHP
 <?php
-	echo "Hello World";
+    echo "Hello World";
 ?>
+
+# This is a comment line, too.
+
+/* This is a comment line, too. */
