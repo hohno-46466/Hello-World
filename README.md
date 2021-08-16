@@ -4,13 +4,11 @@
 #### First update: Fri Jun 25 08:11:39 JST 2021
 #### Last update: Wed Jul 14 06:43:26 JST 2021
 
-
 もともとは，GitHub を学び始めた際に最初に作った「"Hello,World!" を書き込んでみただけのリポジトリ」だったが，消さずに残してあった．今後は各言語で書いた "Hello,World!" のコレクションにしてみようかと．(Fri Jun 25 08:11:39 JST 2021)
 
 なお，現状では Google Collaboratory で「Colaboratory_へようこそ.ipynb」を操作してこれを「GitHub にコピー」しようとすると，なぜかこのリポジトリにコピーしようとする．まぁ、これも「Hello,World!的」ではあるのでこのままにしておくことにした．
 
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
-
 
     ./Hello-World
      ├── Colaboratory_へようこそ.ipynb
@@ -67,3 +65,6 @@
 
 　・Objective-C Hello World Tutorial
 　　https://www.journaldev.com/9512/objective-c-hello-world-tutorial
+Note:   url = git@github.com:hohno-46466/Hello-World.git
+
+-EOF-
