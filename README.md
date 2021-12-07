@@ -13,7 +13,6 @@
 
     Hello-World
      ├── Colaboratory_へようこそ.ipynb
-     ├── README.md
      ├── hello_world.ada
      ├── hello_world.awk
      ├── hello_world.basic
@@ -41,9 +40,41 @@
      ├── hello_world.rs
      ├── hello_world.sh
      ├── hello_world.sql
-     └── hello_world.tcl
+     ├── hello_world.tcl
+     └── README.md
      
-     0 directories, 30 files (Mon Dec  6 23:26:45 JST 2021)
+     0 directories, 30 files (Tue Dec  7 16:16:31 JST 2021)
+
+
+     1	    hello_world.ada	- ada
+     2	    hello_world.awk	- awk
+     3	    hello_world.basic	- basic
+     4	    hello_world.c	- c
+     5	    hello_world.cob	- cobol
+     6	    hello_world.cpp	- c++
+     7	    hello_world.f	- fortran
+     8	    hello_world.f90	- fortran
+     9	    hello_world.for	- fortran
+    10	    hello_world.go	- go
+    11	    hello_world.hs	- haskel
+    12	    hello_world.human1	- human languages(1)
+    13	    hello_world.human2	- human languages(2)
+    14	    hello_world.human3	- human languages(3)
+    15	    hello_world.java	- java
+    16	    hello_world.js	- javascript
+    17	    hello_world.lisp	- lisp
+    18	    hello_world.m	- objective-c
+    19	    hello_world.pas	- pascal
+    20	    hello_world.php	- php
+    21	    hello_world.pl	- perl
+    22	    hello_world.ps1	- power shell
+    23	    hello_world.py	- python
+    24	    hello_world.rb	- ruby
+    25	    hello_world.rs	- rust
+    26	    hello_world.sh	- shell script
+    27	    hello_world.sql	- SQL
+    28	    hello_world.tcl	- tcl
+
 
 ・参考：
 
