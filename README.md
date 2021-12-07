@@ -46,34 +46,34 @@
      0 directories, 30 files (Tue Dec  7 16:16:31 JST 2021)
 
 
-     1	    hello_world.ada	- ada
-     2	    hello_world.awk	- awk
-     3	    hello_world.basic	- basic
-     4	    hello_world.c	- c
-     5	    hello_world.cob	- cobol
-     6	    hello_world.cpp	- c++
+     1	    hello_world.ada	- Ada
+     2	    hello_world.awk	- AWK
+     3	    hello_world.basic	- BASIC
+     4	    hello_world.c	- C
+     5	    hello_world.cob	- COBOL
+     6	    hello_world.cpp	- C++
      7	    hello_world.f	- fortran
-     8	    hello_world.f90	- fortran
-     9	    hello_world.for	- fortran
-    10	    hello_world.go	- go
-    11	    hello_world.hs	- haskel
+     8	    hello_world.f90	- Fortran 90
+     9	    hello_world.for	- FORTRAN 77
+    10	    hello_world.go	- Go
+    11	    hello_world.hs	- Haskell
     12	    hello_world.human1	- human languages(1)
     13	    hello_world.human2	- human languages(2)
     14	    hello_world.human3	- human languages(3)
-    15	    hello_world.java	- java
-    16	    hello_world.js	- javascript
-    17	    hello_world.lisp	- lisp
-    18	    hello_world.m	- objective-c
-    19	    hello_world.pas	- pascal
-    20	    hello_world.php	- php
-    21	    hello_world.pl	- perl
-    22	    hello_world.ps1	- power shell
+    15	    hello_world.java	- Java
+    16	    hello_world.js	- Javascript
+    17	    hello_world.lisp	- Lisp
+    18	    hello_world.m	- Objective-C
+    19	    hello_world.pas	- Pascal
+    20	    hello_world.php	- PHP
+    21	    hello_world.pl	- Perl
+    22	    hello_world.ps1	- PowerShell
     23	    hello_world.py	- python
-    24	    hello_world.rb	- ruby
-    25	    hello_world.rs	- rust
-    26	    hello_world.sh	- shell script
+    24	    hello_world.rb	- Ruby
+    25	    hello_world.rs	- Rust
+    26	    hello_world.sh	- Shell script
     27	    hello_world.sql	- SQL
-    28	    hello_world.tcl	- tcl
+    28	    hello_world.tcl	- Tcl
 
 
 ・参考：
