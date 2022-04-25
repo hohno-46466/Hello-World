@@ -1,2 +1,2 @@
 # Tcl
-puts "Hello!"
+puts "Hello, World!"
