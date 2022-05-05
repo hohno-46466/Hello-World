@@ -3,7 +3,7 @@
 00300 PROGRAM-ID. HELLO.
 00400 PROCEDURE DIVISION.
 00500 MAIN SECTION.
-00600   DISPLAY 'Hello,World!'.
+00600   DISPLAY 'Hello, World!'.
 00700 STOP RUN.
 00800*
 00900* SEE ALSO https://www.cobol.co.jp/cobol-nyuumon/kiso/k015/

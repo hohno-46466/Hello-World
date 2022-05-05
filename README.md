@@ -11,8 +11,8 @@
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
 
 
-    Hello-World
-     ├── Colaboratory_へようこそ.ipynb
+    ./Hello-World
+     ├── README.md
      ├── hello_world.ada
      ├── hello_world.awk
      ├── hello_world.basic
@@ -31,6 +31,7 @@
      ├── hello_world.js
      ├── hello_world.lisp
      ├── hello_world.m
+     ├── hello_world.nako
      ├── hello_world.pas
      ├── hello_world.php
      ├── hello_world.pl
@@ -41,40 +42,40 @@
      ├── hello_world.sh
      ├── hello_world.sql
      ├── hello_world.tcl
-     └── README.md
+     └── testing_colab.ipynb
      
-     0 directories, 30 files (Tue Dec  7 16:16:31 JST 2021)
+     0 directories, 31 files (Thu May  5 12:24:56 JST 2022)
 
 
-     1	    hello_world.ada	- Ada
-     2	    hello_world.awk	- AWK
-     3	    hello_world.basic	- BASIC
-     4	    hello_world.c	- C
-     5	    hello_world.cob	- COBOL
-     6	    hello_world.cpp	- C++
-     7	    hello_world.f	- fortran
-     8	    hello_world.f90	- Fortran 90
-     9	    hello_world.for	- FORTRAN 77
-    10	    hello_world.go	- Go
-    11	    hello_world.hs	- Haskell
-    12	    hello_world.human1	- human languages(1)
-    13	    hello_world.human2	- human languages(2)
-    14	    hello_world.human3	- human languages(3)
-    15	    hello_world.java	- Java
-    16	    hello_world.js	- Javascript
-    17	    hello_world.lisp	- Lisp
-    18	    hello_world.m	- Objective-C
-    19	    hello_world.pas	- Pascal
-    20	    hello_world.php	- PHP
-    21	    hello_world.pl	- Perl
-    22	    hello_world.ps1	- PowerShell
-    23	    hello_world.py	- python
-    24	    hello_world.rb	- Ruby
-    25	    hello_world.rs	- Rust
-    26	    hello_world.sh	- Shell script
-    27	    hello_world.sql	- SQL
-    28	    hello_world.tcl	- Tcl
-
+     1  hello_world.ada         # Ada
+     2  hello_world.awk         # awk
+     3  hello_world.bas         # BASIC
+     4  hello_world.c           # C
+     5  hello_world.cob         # COBOL
+     6  hello_world.cpp         # C++
+     7  hello_world.f           # fortran
+     8  hello_world.f90         # fortran 90
+     9  hello_world.for         # FORTRAN 77
+    10  hello_world.go          # Go
+    11  hello_world.hs          # Haskel
+    12  hello_world.human1      # Human Languages (1)
+    13  hello_world.human2      # Human Languages (2)
+    14  hello_world.human3      # Human Languages (3)
+    15  hello_world.jav         # Java
+    16  hello_world.js          # JavaScript
+    17  hello_world.lis         # Lisp
+    18  hello_world.m           # objective-c
+    19  hello_world.nak         # なでしこ
+    20  hello_world.pas         # Pascal
+    21  hello_world.php         # PHP
+    22  hello_world.pl          # perl
+    23  hello_world.ps1         # PowerShell
+    24  hello_world.py          # Python
+    25  hello_world.rb          # Ruby
+    26  hello_world.rs          # Rust
+    27  hello_world.sh          # sh
+    28  hello_world.sql         # SQL
+    29  hello_world.tcl         # Tcl
 
 ・参考：
 
@@ -105,6 +106,11 @@
 　・Objective-C Hello World Tutorial
 
 　　https://www.journaldev.com/9512/objective-c-hello-world-tutorial
+
+
+　・日本語プログラミング言語「なでしこ3」マニュアル
+
+　　https://nadesi.com/v3/doc/index.php
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
 
