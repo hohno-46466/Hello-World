@@ -82,25 +82,25 @@
 　・40言語で「Hello World」をやってみよう！！<BR>
 　　[https://www.microstone.info/helloworld/](https://www.microstone.info/helloworld/)
 
-　・世界各地と各種プログラミング言語での「Hello World!」いろいろ
+　・世界各地と各種プログラミング言語での「Hello World!」いろいろ<BR>
 　　[https://brian.hatenablog.jp/entry/hello-world](https://brian.hatenablog.jp/entry/hello-world)
 
-　・とほほのFORTRAN入門
+　・とほほのFORTRAN入門<BR>
 　　[https://www.tohoho-web.com/ex/fortran77.html#hello-world](https://www.tohoho-web.com/ex/fortran77.html#hello-world)
 
-　・Fortran 90/95 で "Hello, world!"
+　・Fortran 90/95 で "Hello, world!"<BR>
 　　[https://qiita.com/Takuro_K/items/954a49ff21479e1379fe](https://qiita.com/Takuro_K/items/954a49ff21479e1379fe<)
 
-　・Getting started with ada
+　・Getting started with ada<BR>
 　　https://riptutorial.com/ada/example/15002/hello-world
 
-　・COBOL言語でプログラムを作成してみよう！｜基礎ガイド
+　・COBOL言語でプログラムを作成してみよう！｜基礎ガイド<BR>
 　　https://www.cobol.co.jp/cobol-nyuumon/kiso/k015/
 
-　・Objective-C Hello World Tutorial
+　・Objective-C Hello World Tutorial<BR>
 　　https://www.journaldev.com/9512/objective-c-hello-world-tutorial
 
-　・日本語プログラミング言語「なでしこ3」マニュアル
+　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
