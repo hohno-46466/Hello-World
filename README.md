@@ -9,7 +9,7 @@
 
 なお，現状では Google Collaboratory で「Colaboratory_へようこそ.ipynb」を操作してこれを「GitHub にコピー」しようとすると，なぜかこのリポジトリにコピーしようとする．まぁ、これも「Hello,World!的」ではあるのでこのままにしておくことにした．
 
-人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
+人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）（2022-05-31 時点で 29言語掲載）
 
 
     ./Hello-World
@@ -26,9 +26,9 @@
      ├── hello_world.for
      ├── hello_world.go
      ├── hello_world.hs
-     ├── hello_world.human1
-     ├── hello_world.human2
-     ├── hello_world.human3
+     ├── hello_world.human1 (No.01..10)
+     ├── hello_world.human2 (No.11..20)
+     ├── hello_world.human3 (No.21..29)
      ├── hello_world.java
      ├── hello_world.js
      ├── hello_world.lisp
@@ -106,6 +106,8 @@
 
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
+
+Note:	url = https://github.com/hohno-46466/Hello-World
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
 
