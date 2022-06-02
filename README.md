@@ -12,7 +12,7 @@
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
 
 
-   ./ Hello-World
+    ./Hello-World
      ├── README.md
      ├── hello_world.ada
      ├── hello_world.awk
