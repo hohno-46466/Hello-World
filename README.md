@@ -10,7 +10,6 @@
 
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
 
-
     ./Hello-World
      ├── README.md
      ├── hello_world.ada
@@ -42,9 +41,10 @@
      ├── hello_world.sh
      ├── hello_world.sql
      ├── hello_world.tcl
+     ├── hello_world.v
      └── testing_colab.ipynb
      
-     0 directories, 31 files (Thu May  5 12:24:56 JST 2022)
+     0 directories, 32 files (Sun Jun 12 05:19:09 JST 2022)
 
 
      1  hello_world.ada         # Ada
@@ -76,6 +76,7 @@
     27  hello_world.sh          # sh
     28  hello_world.sql         # SQL
     29  hello_world.tcl         # Tcl
+    30  hello_world.v           # Verilog HDL
 
 ・参考：
 
