@@ -46,41 +46,6 @@
      ├── hello_world.v
      └── testing_colab.ipynb
      
-<<<<<<< HEAD
-     0 directories, 32 files (Sun Jun 12 05:19:09 JST 2022)
-
-
-     1  hello_world.ada         # Ada
-     2  hello_world.awk         # awk
-     3  hello_world.bas         # BASIC
-     4  hello_world.c           # C
-     5  hello_world.cob         # COBOL
-     6  hello_world.cpp         # C++
-     7  hello_world.f           # fortran
-     8  hello_world.f90         # fortran 90
-     9  hello_world.for         # FORTRAN 77
-    10  hello_world.go          # Go
-    11  hello_world.hs          # Haskel
-    12  hello_world.human1      # Human Languages (1)
-    13  hello_world.human2      # Human Languages (2)
-    14  hello_world.human3      # Human Languages (3)
-    15  hello_world.jav         # Java
-    16  hello_world.js          # JavaScript
-    17  hello_world.lis         # Lisp
-    18  hello_world.m           # objective-c
-    19  hello_world.nak         # なでしこ
-    20  hello_world.pas         # Pascal
-    21  hello_world.php         # PHP
-    22  hello_world.pl          # perl
-    23  hello_world.ps1         # PowerShell
-    24  hello_world.py          # Python
-    25  hello_world.rb          # Ruby
-    26  hello_world.rs          # Rust
-    27  hello_world.sh          # sh
-    28  hello_world.sql         # SQL
-    29  hello_world.tcl         # Tcl
-    30  hello_world.v           # Verilog HDL
-=======
      0 directories, 32 files (Fri Jun  3 01:53:17 JST 2022)
 
 
@@ -115,7 +80,8 @@
     28	hello_world.sh          # sh
     29	hello_world.sql         # SQL
     30	hello_world.tcl         # Tcl
->>>>>>> b9a17d4595e96e9eaba717c3dba9f99e61adb0be
+    31	hello_world.v           # Verilog HDL
+
 
 ・参考：
 
@@ -143,12 +109,7 @@
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
-<<<<<<< HEAD
-
 Note:   url = https://github.com/hohno-46466/Hello-World
-=======
-Note:	url = https://github.com/hohno-46466/Hello-World
->>>>>>> b9a17d4595e96e9eaba717c3dba9f99e61adb0be
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
 
