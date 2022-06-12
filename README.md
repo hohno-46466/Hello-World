@@ -121,7 +121,6 @@
 
 　・Tk<BR>
 　　https://en.wikipedia.org/wiki/Tk_(software)
-　　https://ja.wikipedia.org/wiki/Tk_(%E3%83%84%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88) <BR>
 　　https://ja.wikipedia.org/wiki/Tk_(ツールキット) <BR>
 
 　・Verilog<BR>
