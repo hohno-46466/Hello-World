@@ -2,13 +2,14 @@
 最初に作り（その後は放置されるはずだった）リポジトリ
 
 #### First update: Fri Jun 25 08:11:39 JST 2021
-#### Last update: Wed Jul 14 06:43:26 JST 2021
+#### Prev update: Wed Jul 14 06:43:26 JST 2021
+#### Last update: Fri Jun  3 01:53:44 JST 2022
 
 もともとは，GitHub を学び始めた際に最初に作った「"Hello,World!" を書き込んでみただけのリポジトリ」だったが，消さずに残してあった．今後は各言語で書いた "Hello,World!" のコレクションにしてみようかと．(Fri Jun 25 08:11:39 JST 2021)
 
 なお，現状では Google Collaboratory で「Colaboratory_へようこそ.ipynb」を操作してこれを「GitHub にコピー」しようとすると，なぜかこのリポジトリにコピーしようとする．まぁ、これも「Hello,World!的」ではあるのでこのままにしておくことにした．
 
-人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）
+人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）（2022-05-31 時点で 29言語掲載）
 
     ./Hello-World
      ├── README.md
@@ -18,14 +19,15 @@
      ├── hello_world.c
      ├── hello_world.cob
      ├── hello_world.cpp
+     ├── hello_world.cs
      ├── hello_world.f
      ├── hello_world.f90
      ├── hello_world.for
      ├── hello_world.go
      ├── hello_world.hs
-     ├── hello_world.human1
-     ├── hello_world.human2
-     ├── hello_world.human3
+     ├── hello_world.human1 (No.01..10)
+     ├── hello_world.human2 (No.11..20)
+     ├── hello_world.human3 (No.21..29)
      ├── hello_world.java
      ├── hello_world.js
      ├── hello_world.lisp
@@ -44,6 +46,7 @@
      ├── hello_world.v
      └── testing_colab.ipynb
      
+<<<<<<< HEAD
      0 directories, 32 files (Sun Jun 12 05:19:09 JST 2022)
 
 
@@ -77,6 +80,42 @@
     28  hello_world.sql         # SQL
     29  hello_world.tcl         # Tcl
     30  hello_world.v           # Verilog HDL
+=======
+     0 directories, 32 files (Fri Jun  3 01:53:17 JST 2022)
+
+
+
+     1	hello_world.ada         # Ada
+     2	hello_world.awk         # awk
+     3	hello_world.bas         # BASIC
+     4	hello_world.c           # C
+     5	hello_world.cob         # COBOL
+     6	hello_world.cpp         # C++
+     7	hello_world.cs          # C#
+     8	hello_world.f           # fortran
+     9	hello_world.f90         # fortran 90
+    10	hello_world.for         # FORTRAN 77
+    11	hello_world.go          # Go
+    12	hello_world.hs          # Haskel
+    13	hello_world.human1      # Human Languages (1)
+    14	hello_world.human2      # Human Languages (2)
+    15	hello_world.human3      # Human Languages (3)
+    16	hello_world.jav         # Java
+    17	hello_world.js          # JavaScript
+    18	hello_world.lis         # Lisp
+    19	hello_world.m           # objective-c
+    20	hello_world.nak         # なでしこ
+    21	hello_world.pas         # Pascal
+    22	hello_world.php         # PHP
+    23	hello_world.pl          # perl
+    24	hello_world.ps1         # PowerShell
+    25	hello_world.py          # Python
+    26	hello_world.rb          # Ruby
+    27	hello_world.rs          # Rust
+    28	hello_world.sh          # sh
+    29	hello_world.sql         # SQL
+    30	hello_world.tcl         # Tcl
+>>>>>>> b9a17d4595e96e9eaba717c3dba9f99e61adb0be
 
 ・参考：
 
@@ -104,8 +143,12 @@
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
+<<<<<<< HEAD
 
 Note:   url = https://github.com/hohno-46466/Hello-World
+=======
+Note:	url = https://github.com/hohno-46466/Hello-World
+>>>>>>> b9a17d4595e96e9eaba717c3dba9f99e61adb0be
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
 
