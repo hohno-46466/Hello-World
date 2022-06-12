@@ -1,4 +1,5 @@
 -- SQL
+
 SELECT 'Hello, World!';
 
 -- for Oracle Database

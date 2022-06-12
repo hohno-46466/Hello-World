@@ -1,4 +1,5 @@
 (* Pascal *)
+
 program Hello;
 begin
   writeln ('Hello, World!');
