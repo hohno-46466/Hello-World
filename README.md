@@ -120,7 +120,7 @@
 　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
 
 　・Tk<BR>
-　　https://en.wikipedia.org/wiki/Tk_(software)
+　　https://en.wikipedia.org/wiki/Tk_(software) <BR>
 　　https://ja.wikipedia.org/wiki/Tk_(ツールキット) <BR>
 
 　・Verilog<BR>
