@@ -45,10 +45,11 @@
      ├── hello_world.sh
      ├── hello_world.sql
      ├── hello_world.tcl
+     ├── hello_world.tk
      ├── hello_world.v
      └── testing_colab.ipynb
      
-     0 directories, 33 files (Sun Jun 12 10:49:30 JST 2022)
+     0 directories, 34 files (Mon Jun 13 05:22:31 JST 2022)
 
 
      1	hello_world.ada         # Ada
@@ -81,6 +82,7 @@
     28	hello_world.sh          # sh
     29	hello_world.sql         # SQL
     30	hello_world.tcl         # Tcl
+    30	hello_world.tk          # Tk
     31	hello_world.v           # Verilog HDL
 
 
@@ -114,8 +116,10 @@
 ・Wikipedia:
 
 　・Tcl/TK<BR>
-　　https://en.wikipedia.org/wiki/Tcl/Tk<BR>
+　　https://en.wikipedia.org/wiki/Tcl<BR>
 　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
+　　https://en.wikipedia.org/wiki/Tk_(software)<BR>
+　　https://ja.wikipedia.org/wiki/Tk_(%E3%83%84%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88)<BR>
 
 　・Verilog<BR>
 　　https://en.wikipedia.org/wiki/Verilog<BR>

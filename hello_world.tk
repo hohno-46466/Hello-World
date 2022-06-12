@@ -1,0 +1,6 @@
+#!/usr/bin/env wish
+
+# The program wish (WIndowing SHell) provides a way to run a tclsh shell in a graphical window as well as providing Tk. (From "Tk" in Wikipedia)
+
+button .btn -text "Hello, World!" -command "exit"
+pack .btn
