@@ -110,6 +110,18 @@
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
+
+・Wikipedia:
+
+　・Tcl/TK<BR>
+　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
+　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
+
+　・Verilog<BR>
+　　https://en.wikipedia.org/wiki/Verilog<BR>
+　　https://ja.wikipedia.org/wiki/Verilog<BR>
+
+
 Note:   url = https://github.com/hohno-46466/Hello-World
 
 Note:   url = git@github.com:hohno-46466/Hello-World.git
