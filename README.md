@@ -3,13 +3,15 @@
 
 #### First update: Fri Jun 25 08:11:39 JST 2021
 #### Prev update: Wed Jul 14 06:43:26 JST 2021
-#### Last update: Fri Jun  3 01:53:44 JST 2022
+#### Prev update: Fri Jun  3 01:53:44 JST 2022
+#### Last update: Sun Jun 12 10:50:12 JST 2022
 
 もともとは，GitHub を学び始めた際に最初に作った「"Hello,World!" を書き込んでみただけのリポジトリ」だったが，消さずに残してあった．今後は各言語で書いた "Hello,World!" のコレクションにしてみようかと．(Fri Jun 25 08:11:39 JST 2021)
 
 なお，現状では Google Collaboratory で「Colaboratory_へようこそ.ipynb」を操作してこれを「GitHub にコピー」しようとすると，なぜかこのリポジトリにコピーしようとする．まぁ、これも「Hello,World!的」ではあるのでこのままにしておくことにした．
 
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）（2022-05-31 時点で 29言語掲載）
+
 
     ./Hello-World
      ├── README.md
@@ -25,9 +27,9 @@
      ├── hello_world.for
      ├── hello_world.go
      ├── hello_world.hs
-     ├── hello_world.human1 (No.01..10)
-     ├── hello_world.human2 (No.11..20)
-     ├── hello_world.human3 (No.21..29)
+     ├── hello_world.human1
+     ├── hello_world.human2
+     ├── hello_world.human3
      ├── hello_world.java
      ├── hello_world.js
      ├── hello_world.lisp
@@ -46,8 +48,7 @@
      ├── hello_world.v
      └── testing_colab.ipynb
      
-     0 directories, 32 files (Fri Jun  3 01:53:17 JST 2022)
-
+     0 directories, 33 files (Sun Jun 12 10:49:30 JST 2022)
 
 
      1	hello_world.ada         # Ada
