@@ -104,6 +104,9 @@
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
+
+Note:   url = https://github.com/hohno-46466/Hello-World
+
 Note:   url = git@github.com:hohno-46466/Hello-World.git
 
 -EOF-
