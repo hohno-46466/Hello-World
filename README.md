@@ -114,7 +114,7 @@
 ・Wikipedia:
 
 　・Tcl/TK<BR>
-　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
+　　https://en.wikipedia.org/wiki/Tcl/Tk<BR>
 　　https://ja.wikipedia.org/wiki/Tcl/Tk<BR>
 
 　・Verilog<BR>
