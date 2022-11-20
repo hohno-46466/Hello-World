@@ -14,42 +14,43 @@
 
 
     ./Hello-World
-     ├── README.md
-     ├── hello_world.ada
-     ├── hello_world.awk
-     ├── hello_world.basic
-     ├── hello_world.c
-     ├── hello_world.cob
-     ├── hello_world.cpp
-     ├── hello_world.cs
-     ├── hello_world.f
-     ├── hello_world.f90
-     ├── hello_world.for
-     ├── hello_world.go
-     ├── hello_world.hs
-     ├── hello_world.human1
-     ├── hello_world.human2
-     ├── hello_world.human3
-     ├── hello_world.java
-     ├── hello_world.js
-     ├── hello_world.lisp
-     ├── hello_world.m
-     ├── hello_world.nako
-     ├── hello_world.pas
-     ├── hello_world.php
-     ├── hello_world.pl
-     ├── hello_world.ps1
-     ├── hello_world.py
-     ├── hello_world.rb
-     ├── hello_world.rs
-     ├── hello_world.sh
-     ├── hello_world.sql
-     ├── hello_world.tcl
-     ├── hello_world.tk
-     ├── hello_world.v
-     └── testing_colab.ipynb
+     ├──  README.md
+     ├──  hello_world.ada
+     ├──  hello_world.awk
+     ├──  hello_world.basic
+     ├──  hello_world.c
+     ├──  hello_world.cob
+     ├──  hello_world.cpp
+     ├──  hello_world.cs
+     ├──  hello_world.f
+     ├──  hello_world.f90
+     ├──  hello_world.for
+     ├──  hello_world.go
+     ├──  hello_world.hs
+     ├──  hello_world.human1
+     ├──  hello_world.human2
+     ├──  hello_world.human3
+     ├──  hello_world.ino
+     ├──  hello_world.java
+     ├──  hello_world.js
+     ├──  hello_world.lisp
+     ├──  hello_world.m
+     ├──  hello_world.nako
+     ├──  hello_world.pas
+     ├──  hello_world.php
+     ├──  hello_world.pl
+     ├──  hello_world.ps1
+     ├──  hello_world.py
+     ├──  hello_world.rb
+     ├──  hello_world.rs
+     ├──  hello_world.sh
+     ├──  hello_world.sql
+     ├──  hello_world.tcl
+     ├──  hello_world.tk
+     ├──  hello_world.v
+     └──  testing_colab.ipynb
      
-     0 directories, 34 files (Mon Jun 13 05:22:31 JST 2022)
+     0 directories, 35 files (Mon Nov 21 07:41:43 JST 2022)
 
 
      1	hello_world.ada         # Ada
@@ -67,23 +68,24 @@
     13	hello_world.human1      # Human Languages (1)
     14	hello_world.human2      # Human Languages (2)
     15	hello_world.human3      # Human Languages (3)
-    16	hello_world.jav         # Java
-    17	hello_world.js          # JavaScript
-    18	hello_world.lis         # Lisp
-    19	hello_world.m           # objective-c
-    20	hello_world.nak         # なでしこ
-    21	hello_world.pas         # Pascal
-    22	hello_world.php         # PHP
-    23	hello_world.pl          # perl
-    24	hello_world.ps1         # PowerShell
-    25	hello_world.py          # Python
-    26	hello_world.rb          # Ruby
-    27	hello_world.rs          # Rust
-    28	hello_world.sh          # sh
-    29	hello_world.sql         # SQL
-    30	hello_world.tcl         # Tcl
-    30	hello_world.tk          # Tk
-    31	hello_world.v           # Verilog HDL
+    16	hello_world.ino         # Arduino
+    17	hello_world.jav         # Java
+    18	hello_world.js          # JavaScript
+    19	hello_world.lis         # Lisp
+    20	hello_world.m           # objective-c
+    21	hello_world.nak         # なでしこ
+    22	hello_world.pas         # Pascal
+    23	hello_world.php         # PHP
+    24	hello_world.pl          # perl
+    25	hello_world.ps1         # PowerShell
+    26	hello_world.py          # Python
+    27	hello_world.rb          # Ruby
+    28	hello_world.rs          # Rust
+    29	hello_world.sh          # sh
+    30	hello_world.sql         # SQL
+    31	hello_world.tcl         # Tcl
+    32	hello_world.tk          # Tk
+    33	hello_world.v           # Verilog HDL
 
 
 ・参考：
