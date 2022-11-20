@@ -130,8 +130,8 @@
 　　https://ja.wikipedia.org/wiki/Verilog<BR>
 
 
-Note:   url = https://github.com/hohno-46466/Hello-World
+Note:   URL = https://github.com/hohno-46466/Hello-World
 
-Note:   url = git@github.com:hohno-46466/Hello-World.git
+Note:   URL = git@github.com:hohno-46466/Hello-World.git
 
 -EOF-
