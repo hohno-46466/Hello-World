@@ -12,9 +12,9 @@
 
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）（2022-05-31 時点で 29言語掲載）
 
+
     ./Hello-World
      ├──  README.md
-     ├──  README.md.old
      ├──  hello_world.ada
      ├──  hello_world.awk
      ├──  hello_world.basic
@@ -50,7 +50,7 @@
      ├──  hello_world.v
      └──  testing_colab.ipynb
      
-     0 directories, 36 files (Tue Nov 22 23:29:22 JST 2022)
+     0 directories, 35 files (Mon Nov 21 07:41:43 JST 2022)
 
 
      1	hello_world.ada         # Ada
@@ -87,6 +87,7 @@
     32	hello_world.tk          # Tk
     33	hello_world.v           # Verilog HDL
 
+
 ・参考：
 
 　・40言語で「Hello World」をやってみよう！！<BR>
@@ -113,6 +114,7 @@
 　・日本語プログラミング言語「なでしこ3」マニュアル<BR>
 　　https://nadesi.com/v3/doc/index.php
 
+
 ・Wikipedia:
 
 　・Tcl/Tk<BR>
@@ -126,6 +128,7 @@
 　・Verilog<BR>
 　　https://en.wikipedia.org/wiki/Verilog<BR>
 　　https://ja.wikipedia.org/wiki/Verilog<BR>
+
 
 Note:   URL = https://github.com/hohno-46466/Hello-World
 
