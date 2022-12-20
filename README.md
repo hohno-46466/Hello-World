@@ -12,7 +12,7 @@
 
 人間語の "Hello,World!" はないのか，というリクエストにお応えして各国語での表現を取集＆追記開始（2021-07-02時点では作業中）（2022-05-31 時点で 29言語掲載）
 
-    ./Hello-World
+     ./Hello-World
      ├──  README.md
      ├──  README.md.old
      ├──  hello_world.ada
@@ -50,7 +50,7 @@
      ├──  hello_world.v
      └──  testing_colab.ipynb
      
-     0 directories, 36 files (Tue Nov 22 23:29:22 JST 2022)
+     0 directories, 36 files (Tue Dec 20 22:24:20 JST 2022)
 
 
      1	hello_world.ada         # Ada
